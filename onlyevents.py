@@ -9,8 +9,8 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
-MFPLINK = ""     # non mettere lo / finale al link
-MFPPSW = ""
+MFPLINK = "https://unhided222.onrender.com"     # non mettere lo / finale al link
+MFPPSW = "123"
 
 # Costanti
 NUM_CHANNELS = 10000
